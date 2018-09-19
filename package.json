@@ -1,5 +1,5 @@
 {
-  "name": "treantjs",
+  "name": "ngx-treantjs",
   "version": "1.0.0",
   "description": "JavaScipt library for visualization of tree diagrams",
   "main": "Treant.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fperucic/treant-js.git"
+    "url": "https://github.com/rca-tiago-salomon/treant-js"
   },
   "keywords": [
     "treant",
@@ -24,7 +24,7 @@
   "author": "Fran Peručić",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fperucic/treant-js/issues"
+    "url": "https://github.com/rca-tiago-salomon/treant-js/issues"
   },
-  "homepage": "https://github.com/fperucic/treant-js#readme"
+  "homepage": "https://github.com/rca-tiago-salomon/treant-js/treant-js#readme"
 }
